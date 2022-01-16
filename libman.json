@@ -5,6 +5,10 @@
     {
       "library": "bootstrap@5.1.3",
       "destination": "FantastleWeb/wwwroot/lib/bootstrap"
+    },
+    {
+      "library": "microjazz@0.0.2",
+      "destination": "FantastleWeb/wwwroot/lib/microjazz"
     }
   ]
 }
